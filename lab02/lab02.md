@@ -49,3 +49,5 @@ Complexity: Medium (for beginner programmers)
 7. Initialize a repository in the "Basic web" folder and set the remote origin to GitHub
 8. Team members cloned the repository
 9. Verify all applications and authorization is working properly
+## study Tips
+_ From study groups with classmates.
